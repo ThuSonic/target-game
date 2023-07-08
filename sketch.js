@@ -2,7 +2,7 @@ let alvos = [];
 let pontuacao = 0;
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(1500, 1000);
   criarAlvo();
 }
 
